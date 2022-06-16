@@ -5,9 +5,7 @@ exports[`Test in <FirstApp/> should match with the snapshot 1`] = `
   <h1
     data-testid="test-title"
   >
-     
     Hola, Soy Goku
-     
   </h1>
   <p>
     No hay subtítulo
